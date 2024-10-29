@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.lovin.upworkfeed",
-    "sha256_cert_fingerprints":
-    ["8B:32:B9:C1:B0:A2:56:3D:2A:B3:3E:AA:B6:83:39:F5:A9:BF:76:E4:92:81:39:BC:7E:9B:30:04:84:E6:D2:B6"]
-  }
-}]
